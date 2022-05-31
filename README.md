@@ -50,6 +50,7 @@ DIRECTION will be the orientation (north, west, south, east)
 
 ## Note 
 [I'm using Computer Graphics Coordinate System](https://fcs-cs.github.io/cs1-2018/modules/01-introduction/computer-coordinates/)
+
 ![Computer-coordinates](https://storage.googleapis.com/qwasar-public/track-rust/computer_coordinates.png?raw=true "Computer-coordinates-image")
 
 Robot always starts in 0, 0 facing north.
